@@ -8,5 +8,10 @@ Repository | App Service | Auth Service | Workflow Service | Client Service
 --- | --- | --- | --- |---
 Validation Status | [![Deploy Production](https://github.com/openfido/openfido-app-service/actions/workflows/docker-deploy-prod.yml/badge.svg)](https://github.com/openfido/openfido-app-service/actions/workflows/docker-deploy-prod.yml) | [![Deploy Production](https://github.com/openfido/openfido-auth-service/actions/workflows/docker-deploy-prod.yml/badge.svg)](https://github.com/openfido/openfido-auth-service/actions/workflows/docker-deploy-prod.yml) | [![Deploy Production](https://github.com/openfido/openfido-workflow-service/actions/workflows/docker-deploy-prod.yml/badge.svg)](https://github.com/openfido/openfido-workflow-service/actions/workflows/docker-deploy-prod.yml) | [![Deploy Production](https://github.com/openfido/openfido-client/actions/workflows/docker-deploy-prod.yml/badge.svg)](https://github.com/openfido/openfido-client/actions/workflows/docker-deploy-prod.yml)
 
-
 ## Pipeline Status
+
+Pipeline  | Status
+------------- | -------------
+Tarriff Design  | [![validation](https://github.com/openfido/tariff_design/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/tariff_design/actions/workflows/main.yml)
+Loadshape  | [![validation](https://github.com/openfido/loadshape/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/loadshape/actions/workflows/main.yml)
+x  |  y
