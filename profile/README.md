@@ -36,3 +36,4 @@ Pipeline  | Status
 [Hosting Capacity](https://github.com/openfido/hosting_capacity)  |  [![validation](https://github.com/openfido/hosting_capacity/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/hosting_capacity/actions/workflows/main.yml)
 [Electrification](https://github.com/openfido/electrification)  |  [![validation](https://github.com/openfido/electrification/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/electrification/actions/workflows/main.yml)
 [Address](https://github.com/openfido/address)  |  [![validation](https://github.com/openfido/address/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/address/actions/workflows/main.yml)
+[Cyme Converter](https://github.com/openfido/cyme-extract) | [![validation](https://github.com/openfido/cyme-extract/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/cyme-extract/actions/workflows/main.yml)
