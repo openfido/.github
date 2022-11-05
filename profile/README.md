@@ -28,12 +28,12 @@ You can use this code as a base to deploy your own OpenFIDO AWS servers. While t
 Pipeline  | Status
 ------------- | -------------
 [Tariff Design](https://github.com/openfido/tariff_design)  | [![validation](https://github.com/openfido/tariff_design/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/tariff_design/actions/workflows/main.yml)
-[Loadshape](https://github.com/openfido/loadshape)  | [![validation](https://github.com/openfido/loadshape/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/loadshape/actions/workflows/main.yml)
-[Weather](https://github.com/openfido/weather)  |  [![validation](https://github.com/openfido/weather/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/weather/actions/workflows/main.yml)
-[HiPAS GridLAB-D](https://github.com/openfido/gridlabd)  |  [![validation](https://github.com/openfido/gridlabd/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/gridlabd/actions/workflows/main.yml)
+[Loadshape](https://github.com/openfido/loadshape)  | [![validation](https://github.com/openfido/loadshape/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/loadshape/actions/workflows/autotest.yml)
+[Weather](https://github.com/openfido/weather)  |  [![validation](https://github.com/openfido/weather/actions/workflows/autotest.yml/badge.svg)](https://github.com/openfido/weather/actions/workflows/autotest.yml)
+[HiPAS GridLAB-D](https://github.com/openfido/gridlabd)  |  [![validation](https://github.com/openfido/gridlabd/actions/workflows/autotest.yml/badge.svg)](https://github.com/openfido/gridlabd/actions/workflows/autotest.yml)
 [Census](https://github.com/openfido/census)  |  [![validation](https://github.com/openfido/census/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/census/actions/workflows/main.yml)
 [Resilience](https://github.com/openfido/resilience)  |  [![validation](https://github.com/openfido/resilience/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/resilience/actions/workflows/main.yml)
-[Hosting Capacity](https://github.com/openfido/hosting_capacity)  |  [![validation](https://github.com/openfido/hosting_capacity/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/hosting_capacity/actions/workflows/main.yml)
-[Electrification](https://github.com/openfido/electrification)  |  [![validation](https://github.com/openfido/electrification/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/electrification/actions/workflows/main.yml)
+[Hosting Capacity](https://github.com/openfido/hosting_capacity)  |  [![validation](https://github.com/openfido/hosting_capacity/actions/workflows/autotest.yml/badge.svg)](https://github.com/openfido/hosting_capacity/actions/workflows/autotest.yml)
+[Electrification](https://github.com/openfido/electrification)  |  [![validation](https://github.com/openfido/electrification/actions/workflows/autotest.yml/badge.svg)](https://github.com/openfido/electrification/actions/workflows/autotest.yml)
 [Address](https://github.com/openfido/address)  |  [![validation](https://github.com/openfido/address/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/address/actions/workflows/main.yml)
 [Cyme Converter](https://github.com/openfido/cyme-extract) | [![validation](https://github.com/openfido/cyme-extract/actions/workflows/main.yml/badge.svg)](https://github.com/openfido/cyme-extract/actions/workflows/main.yml)
